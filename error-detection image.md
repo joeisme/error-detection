@@ -8,9 +8,9 @@
 ![image](https://github.com/joeisme/error-detection/blob/main/Video%203%20detection%20erro.JPG)
 
 
-3.error-detection for 14th second of video4
+3.error-detection for 14th second of video5
 ![image](https://github.com/joeisme/error-detection/blob/main/Video%204%20detection%20erro.JPG)
 
-4.error-detection for 9th second of video5
+4.error-detection for 9th second of video6
 ![image](https://github.com/joeisme/error-detection/blob/main/Video%205%20detection%20erro.JPG)
 
