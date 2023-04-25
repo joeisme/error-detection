@@ -12,5 +12,5 @@
 ![image](https://github.com/joeisme/error-detection/blob/main/Video%204%20detection%20erro.JPG)
 
 4.error-detection for 9th second of video6
-![image](https://github.com/joeisme/error-detection/blob/main/Video%205%20detection%20erro.JPG)
+![image](https://github.com/joeisme/error-detection/blob/main/Video%206%20detection%20erro.JPG)
 
